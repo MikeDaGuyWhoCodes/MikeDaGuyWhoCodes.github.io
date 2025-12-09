@@ -1,3 +1,5 @@
+--PLEASE NOTE THAT THE GAME THAT USED THIS CODE IS NO LONGER BEING WORKED ON!
+
 -- Main module table
 local DemogranSpawner = {}
 
